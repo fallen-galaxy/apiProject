@@ -1,0 +1,5 @@
+mp_article_001:
+  title: 't-123456'
+  content: 'c-123456'
+  channel_id: '7'
+  channel: '数据库'
